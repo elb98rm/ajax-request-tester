@@ -6,7 +6,7 @@ A simple AJAX request tester.
 # Overview
 
 There are times when you need a "quick and dirty" AJAX request tester. This aims to fill that gap.
-It uses javascript/jQuery (which is included). it is optimised for modern browsers.
+It uses javascript/jQuery (which is included). It is optimised for modern browsers.
 
 # Compatibility
 
@@ -26,9 +26,9 @@ http://jquery.com/
 
 ## Basic
 
-1 Run ajax_request_tester.html in your browser of choice
-2 Enter the url you wish to test
-3 Click submit
+1. Run ajax_request_tester.html in your browser of choice
+2. Enter the url you wish to test
+3. Click submit
 
 The response will be shown below the form.
 
