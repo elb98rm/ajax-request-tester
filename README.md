@@ -37,13 +37,15 @@ The response will be shown below the form.
 
 ## Pr0-tips
 
-* Ensure you're on the same domain as your target else you my get cross scripting security
-* Ensure you log in to your application before you send a request
+* Ensure you're on the same domain as your target else you may get cross scripting security issues
+* If it relies on it, ensure you log in to your application before you send a request
 * There is only basic HTML5 validation - this is not robust, and I'm assuming you want this to work, not break
 
 ## Future plans
 
+* Style it up!
 * Add in the ability to POST data
+* Add in ability to specify headers
 
 # Comments
 
