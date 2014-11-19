@@ -6,7 +6,10 @@ A simple AJAX request tester.
 # Overview
 
 There are times when you need a "quick and dirty" AJAX request tester. This aims to fill that gap.
+There are many similar tools, including some built in to IDEs (I often use PHPStorm, which I recommend)... 
+However, the point is that this gives very quick results for situations where you might be limited.
 It uses javascript/jQuery (which is included). It is optimised for modern browsers.
+
 
 # Compatibility
 
